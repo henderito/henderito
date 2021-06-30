@@ -1,7 +1,6 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
+I am a fullstack software engineer from Argentina
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
 <br>
 
 ### Connect with me
